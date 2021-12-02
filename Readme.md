@@ -1,0 +1,1 @@
+# Some of Javascipt projet for training and fun
