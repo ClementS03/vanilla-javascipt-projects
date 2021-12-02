@@ -53,6 +53,7 @@ async function getQuotes() {
         newQuote();
     } catch (error) {
         //  Catch Error Here
+        alert("Something wrong with Api, try again later")
     }
 }
 
