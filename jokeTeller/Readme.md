@@ -1,0 +1,2 @@
+# Joke teller with two API 
+- Yes you can see my api key in this project, is not really secure and i never do that in real production of course but i decide to let this like that for every one want to try this little app. So enjoy !
